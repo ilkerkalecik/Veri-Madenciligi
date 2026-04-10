@@ -10,3 +10,6 @@ BASE_SIZE = 25 				// kullanıcının dinlediği ilk şarkı sayısı. Graflar b
     
 Daha sonra ise python run dosyaAdı.py
 
+
+python3 keras_autoencoder_recommender.py --file shakira.csv --base-size 25 --top-k 10
+python3 pytorch_embedding_recommender.py --file shakira.csv --base-size 25 --top-k 10

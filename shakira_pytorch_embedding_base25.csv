@@ -1,0 +1,11 @@
+﻿candidate_index,name,artists,album,year,embedding_similarity,feature_similarity,artist_similarity,final_score
+506,Troll Inc.,"['Kami-sama, I have noticed']",20XX,2019,0.88035333,0.80367875,0.0,0.776983
+6316,ATC,['Yanga Chief'],Pop Star,2020,0.85712564,0.7911777,0.0,0.7582235
+7282,LAX,"['L. Supreme', 'Jasonmakesgoodbeats']",The Mixture,2020,0.85250133,0.8068315,0.0,0.7581172
+508,匿名,"['Kami-sama, I have noticed']",20XX,2019,0.8475108,0.7970648,0.0,0.7526705
+2582,Business Blues,['The Blues Mystery'],The Blues Mystery,2018,0.8442896,0.80075,0.0,0.7511527
+3203,Van Horn - KarlSayAgain Remix,"['Saint Motel', 'KarlSayAgain']",Van Horn (Beatsumishi Remix),2020,0.8830649,0.6525776,0.0,0.748661
+509,deadlock,"['Kami-sama, I have noticed']",20XX,2019,0.8510541,0.75298226,0.0,0.74633425
+510,UNHAPPY CLUB,"['Kami-sama, I have noticed']",20XX,2019,0.85343385,0.7304165,0.0,0.743487
+3572,Van Horn - KarlSayAgain Remix,"['Saint Motel', 'KarlSayAgain']",Van Horn (KarlSayAgain Remix),2020,0.8691269,0.65019697,0.0,0.73842824
+3204,Van Horn - GOLDHOUSE Remix,"['Saint Motel', 'GOLDHOUSE']",Van Horn (Beatsumishi Remix),2020,0.8792096,0.61073893,0.0,0.7375945

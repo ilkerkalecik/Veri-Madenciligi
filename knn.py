@@ -376,7 +376,7 @@ def draw_window_graph_knn(indices: List[int],
 # ---------------------------------------------------------
 def main():
     base_dir = os.path.dirname(__file__)
-    file_path = os.path.join(base_dir, "500.csv")  # değiştir
+    file_path = os.path.join(base_dir, "shakira.csv")  # değiştir
 
     BASE_SIZE = 25
     TOP_K = 10

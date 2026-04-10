@@ -1,0 +1,11 @@
+﻿candidate_index,name,artists,album,year,latent_similarity,feature_similarity,artist_similarity,final_score
+5122,Hey You,['Shakira'],"Oral Fixation, Vol. 2 (Expanded Edition)",2005,0.98120666,0.8401586,0.1,0.8719288
+713,Peddi Max (Parkgolf Remix),"['Henrik the Artist', 'PARKGOLF']",Peddi Max,2016,0.9938096,0.808546,0.0,0.8666391
+2432,Good Day Sir,['Dave Moisan'],Ungravity,2011,0.9820447,0.8553054,0.0,0.8648293
+3727,This Sucks,['Dee'],Dee,2006,0.9743276,0.87403196,0.0,0.8618505
+7282,LAX,"['L. Supreme', 'Jasonmakesgoodbeats']",The Mixture,2020,0.98738813,0.80683154,0.0,0.8615658
+3721,Filter Factory,['Dee'],Dee,2006,0.96887994,0.89871585,0.0,0.86146736
+6938,When My Baby's Beside Me,['Kelly Willis'],Big Star Small World (Tribute to Big Star),2006,0.97610897,0.8556856,0.0,0.86043453
+5118,Animal City,['Shakira'],"Oral Fixation, Vol. 2 (Expanded Edition)",2005,0.977833,0.7793801,0.1,0.8602817
+3589,Soldier Blues,['The Kilborn Alley Blues Band'],Put It In the Alley,2008,0.97676265,0.8495323,0.0,0.8600018
+3202,Van Horn - Beatsumishi Remix,"['Saint Motel', 'Beatsumishi']",Van Horn (Beatsumishi Remix),2020,0.9867108,0.797921,0.0,0.85972124
